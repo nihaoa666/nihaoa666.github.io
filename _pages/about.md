@@ -18,7 +18,7 @@ html、css、js、Python、C、c++、网络空间安全导论...
 在未来：我将积极参与CTF竞赛、开源安全项目，积累实战经验，为求职加分。
 希望各位多多指点，多多包涵我代码的bug,谢谢。
 联系方式：email:2139732901@qq.com.
-微信二维码见图
+微信二维码见图fe245970af2b9601e9941ad0992e0e36.jpg
 
 A data-driven personal website
 ======
